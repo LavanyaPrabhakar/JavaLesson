@@ -39,14 +39,15 @@ e.	Project folder -> Team-> Commit<br><br>
 ![Picture13](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/efb089f1-efc2-4e80-8d47-df1e5603df76)<br><br>
 Note: We need to give commit message which committing the code from Eclipse. Hence follow the below steps:<br><br>
   I.	Eclipse->Window->Show View->Other-> Git Folder->Git Staging->Open button-> New Git Staging window will be opened next to the console window in Eclipse.<br><br>
-![Picture14](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/e4ebcde2-3b9f-4aa1-9510-39506d29d9ac)
-![Picture15](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/5c35d4a6-3ffc-4ea5-93c4-3f752957d8a3)
-![Picture16](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/f4073a0f-402a-4a25-9ea5-ba6942f3d860)
-![Picture17](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/87009f99-5543-47f5-92fc-0f425bcff8fb)
-![Picture18](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/603a00c9-261e-42dd-b0c4-bfd9229efe59)
-![Picture19](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/0e4a6836-6c2b-4619-9a03-c08a00c1e620)
-![Picture20](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/8335cceb-a8b7-41f3-b912-012c601ff241)
-![Picture21](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/a0c1be30-320c-4a00-9159-715e4d94049b)
-![Picture22](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/ab46a37b-ba00-429b-858d-0ec7fe7ced86)
-![Picture23](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/9e974fd8-f8a0-4872-8606-d18c6af1dc8e)
+![Picture14](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/e4ebcde2-3b9f-4aa1-9510-39506d29d9ac)<br><br>
+II.	Commit Message window-> Give the commit message-> Commit and Push button-> Login Authentication popup window ->Username and Password should be given in their respective textboxes->Push Branch Master window will be displayed<br><br>
+![Picture15](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/5c35d4a6-3ffc-4ea5-93c4-3f752957d8a3)<br><br>
+![Picture16](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/f4073a0f-402a-4a25-9ea5-ba6942f3d860)<br><br>
+![Picture17](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/87009f99-5543-47f5-92fc-0f425bcff8fb)<br><br>
+![Picture18](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/603a00c9-261e-42dd-b0c4-bfd9229efe59)<br><br>
+![Picture19](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/0e4a6836-6c2b-4619-9a03-c08a00c1e620)<br><br>
+![Picture20](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/8335cceb-a8b7-41f3-b912-012c601ff241)<br><br>
+![Picture21](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/a0c1be30-320c-4a00-9159-715e4d94049b)<br><br>
+![Picture22](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/ab46a37b-ba00-429b-858d-0ec7fe7ced86)<br><br>
+![Picture23](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/9e974fd8-f8a0-4872-8606-d18c6af1dc8e)<br><br>
 
