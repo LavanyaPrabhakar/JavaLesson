@@ -11,11 +11,11 @@ Output: “Git Repositories” window will be opened with three links as shown b
 a.	Add an existing local Git Repository<br>
 b.	Clone a Git Repository<br>
 c.	Create a new local Git Repository<br>
-![Picture3](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/303f556d-9f72-4614-b667-f8a4f4ed5bfd)<br>
+![Picture3](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/303f556d-9f72-4614-b667-f8a4f4ed5bfd)<br><br>
 4.	Click “Clone a Git Repository” link-> “Clone Git Repository”-> “Source Git Repository” window opens.<br>
 5.	In the “Location” ->’URL ‘ textbox-> give the copied url of new remote repository<br>
 6.	Click Next button-> warning message “Source Git Repository is empty.”<br>
-![Picture4](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/7f40f7e5-363b-4277-9b9b-d70491181592)<br>
+![Picture4](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/7f40f7e5-363b-4277-9b9b-d70491181592)<br><br>
 7.	Ignore the above warning message and click Next button.<br>
 ![Picture5](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/c815b553-cd56-459d-921b-0ebfce851135)
 ![Picture6](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/4a12f734-1897-46c6-85ce-3a7e01c0d135)
