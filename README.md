@@ -58,5 +58,8 @@ To resolve this issue, follow the below steps:<br><br>
 ![Picture21](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/a0c1be30-320c-4a00-9159-715e4d94049b)<br><br>
 4.	Token will be generated. We have to use this token instead of a password in the eclipse or other tools you are using<br><br>
 ![Picture22](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/ab46a37b-ba00-429b-858d-0ec7fe7ced86)<br><br>
+After giving the username and password (newly generated token should be given as password) in the eclipse, the project from Eclipse will be pushed to the remote repository.<br><br>
 ![Picture23](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/9e974fd8-f8a0-4872-8606-d18c6af1dc8e)<br><br>
+Result: Entire project will be pushed to remote repository.<br><br>
+To see the project in remote repository, just refresh GitHub page.<br>
 
