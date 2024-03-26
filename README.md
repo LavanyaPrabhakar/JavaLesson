@@ -47,6 +47,7 @@ IV.	’Username’ and ‘Password’ should be given in their respective textbo
 ![Picture16](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/f4073a0f-402a-4a25-9ea5-ba6942f3d860)<br><br>
 V.	In Push Branch Master window->In ’Remote’ textbox, the copied url of remote repository location should be given->Click Push Head button<br><br>
 ![Picture17](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/87009f99-5543-47f5-92fc-0f425bcff8fb)<br><br>
+Note: For the first time it can’t connect to any repository. It will show a ‘Problem Occurred’ popup window.<br><br>
 ![Picture18](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/603a00c9-261e-42dd-b0c4-bfd9229efe59)<br><br>
 ![Picture19](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/0e4a6836-6c2b-4619-9a03-c08a00c1e620)<br><br>
 ![Picture20](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/8335cceb-a8b7-41f3-b912-012c601ff241)<br><br>
