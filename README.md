@@ -50,6 +50,10 @@ V.	In Push Branch Master window->In ’Remote’ textbox, the copied url of remo
 Note: For the first time it can’t connect to any repository. It will show a ‘Problem Occurred’ popup window.<br><br>
 ![Picture18](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/603a00c9-261e-42dd-b0c4-bfd9229efe59)<br><br>
 To resolve this issue, follow the below steps:<br><br>
+1.	login to your GitHub account<br><br>
+2.	go to MyProfile->Settings->Developer Settings->Click ’Personal Access Tokens’ dropdown button->Click Tokens(classic)-> Click ‘Generate new token button<br><br>
+3.	In the ‘New Personal Access Token(Classic)-> ‘Note’ textbox-> Give details about the purpose of generating the token<br><br>
+4.	System will have a token<br><br>
 ![Picture19](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/0e4a6836-6c2b-4619-9a03-c08a00c1e620)<br><br>
 ![Picture20](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/8335cceb-a8b7-41f3-b912-012c601ff241)<br><br>
 ![Picture21](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/a0c1be30-320c-4a00-9159-715e4d94049b)<br><br>
