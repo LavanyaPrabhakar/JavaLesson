@@ -1,4 +1,10 @@
-Read Me file
+How to upload code from Eclipse to GitHub remote repository  i.e., Code from IDE to GitHub:
+IDE New Folder to New Repository:
+Steps:
+1.	Create New remote Repository
+2.	Copy the URL of New remote Repository
+3.	In IDE Eclipse->Windows->Show View->Other->Git Folder->Git Repositories
+
 ![Picture1](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/fbcffa32-8cdc-4d33-b809-a399c902e849)
 ![Picture2](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/84a3da41-6d0f-4ac2-8b39-3258e2f9ecbf)
 ![Picture3](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/303f556d-9f72-4614-b667-f8a4f4ed5bfd)
