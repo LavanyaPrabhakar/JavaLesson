@@ -9,6 +9,7 @@ Steps:
 ![Picture2](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/84a3da41-6d0f-4ac2-8b39-3258e2f9ecbf)
 
 Output: “Git Repositories” window will be opened with three links as shown below:
+
 a.	Add an existing local Git Repository
 b.	Clone a Git Repository
 c.	Create a new local Git Repository
