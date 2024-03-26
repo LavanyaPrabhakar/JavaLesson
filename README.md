@@ -22,8 +22,11 @@ c.	Create a new local Git Repository<br>
 9.	Click ‘Finish’ button.<br><br>
 ![Picture6](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/4a12f734-1897-46c6-85ce-3a7e01c0d135)<br><br>
 10.	The Git Repository tab (located next to console tab) will display the new repository folder with .git file in it.<br><br>
-![Picture7](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/1a7122df-d88e-4639-a5f0-503815f3508b)
-![Picture8](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/82d15c90-2eef-4f8c-a21a-d5e8215daa1e)
+![Picture7](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/1a7122df-d88e-4639-a5f0-503815f3508b)<br><br>
+11.	After git initialization, to move the project folder from IDE Eclipse to remote repository, the steps to be followed in Eclipse are:<br><br>
+a.	Project folder -> Team-> Share Project-> Configure Git Repository popup window will be opened<br><br>
+![Picture8](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/82d15c90-2eef-4f8c-a21a-d5e8215daa1e)<br><br>
+b.	Project Folder location in the local machine with \.git should be given in the Repository textbox. For example  C:\Users\LPrab\git\JavaLesson\.git<br><br>
 ![Picture9](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/1e100c6a-5989-4665-a8d9-90870bad7044)
 ![Picture10](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/0aaba620-cc5e-440a-9183-5e90b9b19785)
 ![Picture11](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/aab38588-0752-4072-8c23-d40ebfad3409)
