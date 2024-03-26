@@ -30,9 +30,8 @@ b.	Project Folder location in the local machine with \.git should be given in th
 c.	Click Finish button.<br>
 ![Picture9](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/1e100c6a-5989-4665-a8d9-90870bad7044)<br><br>
 Note: Question marks will be displayed in all the files of the folder which means all the files are included in the working folder(git copy folder)<br><br>
-d.	Project folder -> Team-> Add to Index Note: Plus marks will be displayed in all the files of the folder which means all the files are added to the Staging area<br><br>
 ![Picture10](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/0aaba620-cc5e-440a-9183-5e90b9b19785)
-
+d.	Project folder -> Team-> Add to Index Note: Plus marks will be displayed in all the files of the folder which means all the files are added to the Staging area<br><br>
 ![Picture11](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/aab38588-0752-4072-8c23-d40ebfad3409)
 ![Picture12](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/f9ff61b3-061e-4bf5-bf40-fc6ac76a9b4f)
 ![Picture13](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/efb089f1-efc2-4e80-8d47-df1e5603df76)
