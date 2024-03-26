@@ -17,8 +17,11 @@ c.	Create a new local Git Repository<br>
 6.	Click Next button-> warning message “Source Git Repository is empty.”<br><br>
 ![Picture4](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/7f40f7e5-363b-4277-9b9b-d70491181592)<br><br>
 7.	Ignore the above warning message and click Next button.<br><br>
-![Picture5](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/c815b553-cd56-459d-921b-0ebfce851135)
-![Picture6](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/4a12f734-1897-46c6-85ce-3a7e01c0d135)
+![Picture5](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/c815b553-cd56-459d-921b-0ebfce851135)<br><br>
+8.	In the “Local Destination” ->Click Browse and select the Local Destination and will be displayed in the ’Directory ‘ textbox<br>
+9.	Click ‘Finish’ button.<br><br>
+![Picture6](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/4a12f734-1897-46c6-85ce-3a7e01c0d135)<br><br>
+10.	The Git Repository tab (located next to console tab) will display the new repository folder with .git file in it.<br><br>
 ![Picture7](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/1a7122df-d88e-4639-a5f0-503815f3508b)
 ![Picture8](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/82d15c90-2eef-4f8c-a21a-d5e8215daa1e)
 ![Picture9](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/1e100c6a-5989-4665-a8d9-90870bad7044)
