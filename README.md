@@ -5,16 +5,15 @@ Steps:
 2.	Copy the URL of New remote Repository
 3.	In IDE Eclipse->Windows->Show View->Other->Git Folder->Git Repositories
 
-![Picture1](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/fbcffa32-8cdc-4d33-b809-a399c902e849)
-![Picture2](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/84a3da41-6d0f-4ac2-8b39-3258e2f9ecbf)
-
+![Picture1](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/fbcffa32-8cdc-4d33-b809-a399c902e849)<br>
+![Picture2](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/84a3da41-6d0f-4ac2-8b39-3258e2f9ecbf)<br>
 Output: “Git Repositories” window will be opened with three links as shown below:<br>
 a.	Add an existing local Git Repository<br>
 b.	Clone a Git Repository<br>
 c.	Create a new local Git Repository<br>
-
 ![Picture3](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/303f556d-9f72-4614-b667-f8a4f4ed5bfd)<br>
-4.	Click “Clone a Git Repository” link-> “Clone Git Repository”-> “Source Git Repository” window opens.
+4.	Click “Clone a Git Repository” link-> “Clone Git Repository”-> “Source Git Repository” window opens.<br>
+5.	In the “Location” ->’URL ‘ textbox-> give the copied url of new remote repository
 ![Picture4](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/7f40f7e5-363b-4277-9b9b-d70491181592)
 ![Picture5](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/c815b553-cd56-459d-921b-0ebfce851135)
 ![Picture6](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/4a12f734-1897-46c6-85ce-3a7e01c0d135)
