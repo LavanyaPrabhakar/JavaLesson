@@ -53,9 +53,9 @@ To resolve this issue, follow the below steps:<br><br>
 1.	login to your GitHub account<br><br>
 2.	go to MyProfile->Settings->Developer Settings->Click ’Personal Access Tokens’ dropdown button->Click Tokens(classic)-> Click ‘Generate new token button<br><br>
 3.	In the ‘New Personal Access Token(Classic)-> ‘Note’ textbox-> Give details about the purpose of generating the token<br><br>
-4.	Token will be generated. We have to use this token instead of a password in the eclipse or other tools you are using<br><br>
 ![Picture19](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/0e4a6836-6c2b-4619-9a03-c08a00c1e620)<br><br>
 ![Picture20](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/8335cceb-a8b7-41f3-b912-012c601ff241)<br><br>
+4.	Token will be generated. We have to use this token instead of a password in the eclipse or other tools you are using<br><br>
 ![Picture21](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/a0c1be30-320c-4a00-9159-715e4d94049b)<br><br>
 ![Picture22](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/ab46a37b-ba00-429b-858d-0ec7fe7ced86)<br><br>
 ![Picture23](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/9e974fd8-f8a0-4872-8606-d18c6af1dc8e)<br><br>
