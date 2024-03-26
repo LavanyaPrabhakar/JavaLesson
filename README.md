@@ -34,8 +34,10 @@ Note: Question marks will be displayed in all the files of the folder which mean
 d.	Project folder -> Team-> Add to Index<br><br>
 ![Picture11](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/aab38588-0752-4072-8c23-d40ebfad3409)<br><br>
 Note: Plus marks will be displayed in all the files of the folder which means all the files are added to the Staging area<br><br>
-![Picture12](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/f9ff61b3-061e-4bf5-bf40-fc6ac76a9b4f)
-![Picture13](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/efb089f1-efc2-4e80-8d47-df1e5603df76)
+![Picture12](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/f9ff61b3-061e-4bf5-bf40-fc6ac76a9b4f)<br><br>
+e.	Project folder -> Team-> Commit<br><br>
+![Picture13](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/efb089f1-efc2-4e80-8d47-df1e5603df76)<br><br>
+Note: We need to give commit message which committing the code from Eclipse. Hence follow the below steps:<br><br>
 ![Picture14](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/e4ebcde2-3b9f-4aa1-9510-39506d29d9ac)
 ![Picture15](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/5c35d4a6-3ffc-4ea5-93c4-3f752957d8a3)
 ![Picture16](https://github.com/LavanyaPrabhakar/JavaLesson/assets/117753230/f4073a0f-402a-4a25-9ea5-ba6942f3d860)
